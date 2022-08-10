@@ -1,0 +1,5 @@
+###
+GET http://localhost:8100/api/v1/currency-converter/from-currency/eur/to-currency/grn/amount/1000
+Accept: */*
+Content-Type: application/json
+Cache-Control: no-cache
